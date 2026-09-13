@@ -1,0 +1,11 @@
+[project]
+name = "img2poetry-api"
+version = "0.1.0"
+description = "见景寻诗图片理解与真实古典诗词匹配服务"
+requires-python = ">=3.12,<3.13"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"
+testpaths = ["tests"]
+

@@ -1,0 +1,6049 @@
+[
+  {
+    "sourceId": "c244a5b4-0ed0-48fe-8694-95309acac184",
+    "sourceIndex": 2,
+    "slug": "tang-c244a5b4",
+    "title": "登幽州台歌",
+    "sourceTitle": "登幽州台歌",
+    "author": "陈子昂",
+    "dynasty": "唐",
+    "genre": "古体诗",
+    "lines": [
+      {
+        "text": "前不见古人，后不见来者。",
+        "featured": false
+      },
+      {
+        "text": "念天地之悠悠，独怆然而涕下。",
+        "featured": true
+      }
+    ],
+    "canonicalText": "前不见古人，后不见来者。\n念天地之悠悠，独怆然而涕下。",
+    "normalizedText": "前不见古人后不见来者念天地之悠悠独怆然而涕下",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "苍凉",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "怀古",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "辽阔",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.92,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "de6b7e3d-03cd-4daa-bdc2-7fb820fda441",
+    "sourceIndex": 169,
+    "slug": "tang-de6b7e3d",
+    "title": "出塞",
+    "sourceTitle": "出塞二首 一",
+    "author": "王昌龄",
+    "dynasty": "唐",
+    "genre": "乐府",
+    "lines": [
+      {
+        "text": "秦时明月汉时关，万里长征人未还。",
+        "featured": false
+      },
+      {
+        "text": "但使龙城飞将在，不教胡马度阴山。",
+        "featured": true
+      }
+    ],
+    "canonicalText": "秦时明月汉时关，万里长征人未还。\n但使龙城飞将在，不教胡马度阴山。",
+    "normalizedText": "秦时明月汉时关万里长征人未还但使龙城飞将在不教胡马度阴山",
+    "aliases": [
+      "出塞二首 一"
+    ],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "壮阔",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "边塞",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "雄浑",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "城郭",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "关塞",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "马",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.8,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "bcdf6f13-4cb9-418f-9279-c690522e0a27",
+    "sourceIndex": 6,
+    "slug": "tang-bcdf6f13",
+    "title": "出塞",
+    "sourceTitle": "横吹曲辞 出塞",
+    "author": "王之涣",
+    "dynasty": "唐",
+    "genre": "乐府",
+    "lines": [
+      {
+        "text": "黄砂直上白云间，一片孤城万仞山。",
+        "featured": true
+      },
+      {
+        "text": "羌笛何须怨杨柳，春风不度玉门关。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "黄砂直上白云间，一片孤城万仞山。\n羌笛何须怨杨柳，春风不度玉门关。",
+    "normalizedText": "黄砂直上白云间一片孤城万仞山羌笛何须怨杨柳春风不度玉门关",
+    "aliases": [
+      "横吹曲辞 出塞"
+    ],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "思乡",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "边塞",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "苍茫",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "云",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "风",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "城郭",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "关塞",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "柳树",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "春",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "风",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "多云",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.8,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "e0eb3016-9288-4dc0-9257-3de36e5ad73c",
+    "sourceIndex": 10,
+    "slug": "tang-e0eb3016",
+    "title": "锦瑟",
+    "sourceTitle": "锦瑟",
+    "author": "李商隐",
+    "dynasty": "唐",
+    "genre": "律诗",
+    "lines": [
+      {
+        "text": "锦瑟无端五十弦，一弦一柱思华年。",
+        "featured": false
+      },
+      {
+        "text": "庄生晓梦迷蝴蝶，望帝春心托杜鹃。",
+        "featured": false
+      },
+      {
+        "text": "沧海月明珠有泪，蓝田日暖玉生烟。",
+        "featured": true
+      },
+      {
+        "text": "此情可待成追忆，只是当时已惘然。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "锦瑟无端五十弦，一弦一柱思华年。\n庄生晓梦迷蝴蝶，望帝春心托杜鹃。\n沧海月明珠有泪，蓝田日暖玉生烟。\n此情可待成追忆，只是当时已惘然。",
+    "normalizedText": "锦瑟无端五十弦一弦一柱思华年庄生晓梦迷蝴蝶望帝春心托杜鹃沧海月明珠有泪蓝田日暖玉生烟此情可待成追忆只是当时已惘然",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "怅惘",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "追忆",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "朦胧",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "太阳",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "田野",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "春",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "清晨",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.8,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "d7c6d072-6e84-482e-856a-5a4c21226a3c",
+    "sourceIndex": 12,
+    "slug": "tang-d7c6d072",
+    "title": "乐游原",
+    "sourceTitle": "乐游原",
+    "author": "李商隐",
+    "dynasty": "唐",
+    "genre": "其他",
+    "lines": [
+      {
+        "text": "向晚意不适，驱车登古原。",
+        "featured": false
+      },
+      {
+        "text": "夕阳无限好，只是近黄昏。",
+        "featured": true
+      }
+    ],
+    "canonicalText": "向晚意不适，驱车登古原。\n夕阳无限好，只是近黄昏。",
+    "normalizedText": "向晚意不适驱车登古原夕阳无限好只是近黄昏",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "感慨",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "惜时",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "暮色",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "夕阳",
+        "weight": 0.95,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "黄昏",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.8,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "75db753d-e7da-48a1-a6c0-6ed9147e58db",
+    "sourceIndex": 13,
+    "slug": "tang-75db753d",
+    "title": "夜雨寄北",
+    "sourceTitle": "夜雨寄北",
+    "author": "李商隐",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "君问归期未有期，巴山夜雨涨秋池。",
+        "featured": true
+      },
+      {
+        "text": "何当共剪西窗烛，却话巴山夜雨时。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "君问归期未有期，巴山夜雨涨秋池。\n何当共剪西窗烛，却话巴山夜雨时。",
+    "normalizedText": "君问归期未有期巴山夜雨涨秋池何当共剪西窗烛却话巴山夜雨时",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "思念",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "思乡",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "清寂",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          0,
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "雨",
+        "weight": 0.85,
+        "evidenceLines": [
+          0,
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "秋",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "夜晚",
+        "weight": 0.9,
+        "evidenceLines": [
+          0,
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "雨",
+        "weight": 0.9,
+        "evidenceLines": [
+          0,
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.92,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "204e287b-8194-4c2d-808b-11cc260412ae",
+    "sourceIndex": 57,
+    "slug": "tang-204e287b",
+    "title": "渭川田家",
+    "sourceTitle": "渭川田家",
+    "author": "王维",
+    "dynasty": "唐",
+    "genre": "古体诗",
+    "lines": [
+      {
+        "text": "斜阳照墟落，穷巷牛羊归。",
+        "featured": false
+      },
+      {
+        "text": "野老念牧童，倚杖候荆扉。",
+        "featured": false
+      },
+      {
+        "text": "雉雊麦苗秀，蚕眠桑叶稀。",
+        "featured": false
+      },
+      {
+        "text": "田夫荷锄至，相见语依依。",
+        "featured": true
+      },
+      {
+        "text": "即此羡闲逸，怅然吟式微。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "斜阳照墟落，穷巷牛羊归。\n野老念牧童，倚杖候荆扉。\n雉雊麦苗秀，蚕眠桑叶稀。\n田夫荷锄至，相见语依依。\n即此羡闲逸，怅然吟式微。",
+    "normalizedText": "斜阳照墟落穷巷牛羊归野老念牧童倚杖候荆扉雉雊麦苗秀蚕眠桑叶稀田夫荷锄至相见语依依即此羡闲逸怅然吟式微",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "闲适",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "田园",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "质朴",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "田野",
+        "weight": 0.85,
+        "evidenceLines": [
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.8,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "8de30193-fba7-4aef-9ff9-c3726a22104d",
+    "sourceIndex": 74,
+    "slug": "tang-8de30193",
+    "title": "泊秦淮",
+    "sourceTitle": "泊秦淮",
+    "author": "杜牧",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "烟笼寒水月笼沙，夜泊秦淮近酒家。",
+        "featured": true
+      },
+      {
+        "text": "商女不知亡国恨，隔江犹唱后庭花。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "烟笼寒水月笼沙，夜泊秦淮近酒家。\n商女不知亡国恨，隔江犹唱后庭花。",
+    "normalizedText": "烟笼寒水月笼沙夜泊秦淮近酒家商女不知亡国恨隔江犹唱后庭花",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "忧思",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "怀古",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "夜色",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "江水",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "水面",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "花",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "夜晚",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.92,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "d12edd29-d467-4b19-b3f5-533fa5c8d56a",
+    "sourceIndex": 78,
+    "slug": "tang-d12edd29",
+    "title": "秋夕",
+    "sourceTitle": "秋夕",
+    "author": "杜牧",
+    "dynasty": "唐",
+    "genre": "其他",
+    "lines": [
+      {
+        "text": "红烛秋光冷画屏，轻罗小扇扑流萤。",
+        "featured": false
+      },
+      {
+        "text": "天阶夜色凉如水，坐看牵牛织女星。",
+        "featured": true
+      }
+    ],
+    "canonicalText": "红烛秋光冷画屏，轻罗小扇扑流萤。\n天阶夜色凉如水，坐看牵牛织女星。",
+    "normalizedText": "红烛秋光冷画屏轻罗小扇扑流萤天阶夜色凉如水坐看牵牛织女星",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "孤寂",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "宫怨",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "清冷",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "水面",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "星空",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "秋",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "夜晚",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.8,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "a746d1f0-a72c-44d2-8b1c-c5c990749257",
+    "sourceIndex": 96,
+    "slug": "tang-a746d1f0",
+    "title": "送灵澈上人",
+    "sourceTitle": "送灵澈上人",
+    "author": "刘长卿",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "苍苍竹林寺，杳杳钟声晚。",
+        "featured": true
+      },
+      {
+        "text": "荷笠带夕阳，青山独归远。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "苍苍竹林寺，杳杳钟声晚。\n荷笠带夕阳，青山独归远。",
+    "normalizedText": "苍苍竹林寺杳杳钟声晚荷笠带夕阳青山独归远",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "宁静",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "送别",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "幽远",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "竹林",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "古寺",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "夕阳",
+        "weight": 0.95,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "黄昏",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.92,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "56ca5b29-4bb9-4f12-9200-6bc7c72e4e47",
+    "sourceIndex": 107,
+    "slug": "tang-56ca5b29",
+    "title": "秋登兰山寄张五",
+    "sourceTitle": "秋登兰山寄张五",
+    "author": "孟浩然",
+    "dynasty": "唐",
+    "genre": "古体诗",
+    "lines": [
+      {
+        "text": "北山白云里，隐者自怡悦。",
+        "featured": false
+      },
+      {
+        "text": "相望试登高，心飞逐鸟灭。",
+        "featured": false
+      },
+      {
+        "text": "愁因薄暮起，兴是清秋发。",
+        "featured": false
+      },
+      {
+        "text": "时见归村人，沙行渡头歇。",
+        "featured": false
+      },
+      {
+        "text": "天边树若荠，江畔舟如月。",
+        "featured": true
+      },
+      {
+        "text": "何当载酒来，共醉重阳节。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "北山白云里，隐者自怡悦。\n相望试登高，心飞逐鸟灭。\n愁因薄暮起，兴是清秋发。\n时见归村人，沙行渡头歇。\n天边树若荠，江畔舟如月。\n何当载酒来，共醉重阳节。",
+    "normalizedText": "北山白云里隐者自怡悦相望试登高心飞逐鸟灭愁因薄暮起兴是清秋发时见归村人沙行渡头歇天边树若荠江畔舟如月何当载酒来共醉重阳节",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "思念",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "怀友",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "高远",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          4
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "江水",
+        "weight": 0.85,
+        "evidenceLines": [
+          4
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "云",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "树木",
+        "weight": 0.85,
+        "evidenceLines": [
+          4
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "飞鸟",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "舟船",
+        "weight": 0.85,
+        "evidenceLines": [
+          4
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          4
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "秋",
+        "weight": 0.9,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "黄昏",
+        "weight": 0.9,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "多云",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.8,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "6975adab-25d0-40c6-af3a-3a05847e7717",
+    "sourceIndex": 111,
+    "slug": "tang-6975adab",
+    "title": "望洞庭湖赠张丞相",
+    "sourceTitle": "望洞庭湖赠张丞相",
+    "author": "孟浩然",
+    "dynasty": "唐",
+    "genre": "律诗",
+    "lines": [
+      {
+        "text": "八月湖水平，涵虚混太清。",
+        "featured": true
+      },
+      {
+        "text": "气蒸云梦泽，波撼岳阳城。",
+        "featured": false
+      },
+      {
+        "text": "欲济无舟楫，端居耻圣明。",
+        "featured": false
+      },
+      {
+        "text": "坐观垂钓者，空有羡鱼情。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "八月湖水平，涵虚混太清。\n气蒸云梦泽，波撼岳阳城。\n欲济无舟楫，端居耻圣明。\n坐观垂钓者，空有羡鱼情。",
+    "normalizedText": "八月湖水平涵虚混太清气蒸云梦泽波撼岳阳城欲济无舟楫端居耻圣明坐观垂钓者空有羡鱼情",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "壮阔",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "山水",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "浩渺",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "湖水",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "水面",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "云",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "舟船",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "城郭",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "多云",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.92,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "9309205e-1d08-4a7b-99ef-4a05a9ee4370",
+    "sourceIndex": 118,
+    "slug": "tang-9309205e",
+    "title": "过故人庄",
+    "sourceTitle": "过故人庄",
+    "author": "孟浩然",
+    "dynasty": "唐",
+    "genre": "律诗",
+    "lines": [
+      {
+        "text": "故人具鸡黍，邀我至田家。",
+        "featured": false
+      },
+      {
+        "text": "绿树村边合，青山郭外斜。",
+        "featured": true
+      },
+      {
+        "text": "开筵面场圃，把酒话桑麻。",
+        "featured": false
+      },
+      {
+        "text": "待到重阳日，还来就菊花。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "故人具鸡黍，邀我至田家。\n绿树村边合，青山郭外斜。\n开筵面场圃，把酒话桑麻。\n待到重阳日，还来就菊花。",
+    "normalizedText": "故人具鸡黍邀我至田家绿树村边合青山郭外斜开筵面场圃把酒话桑麻待到重阳日还来就菊花",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "喜悦",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "田园",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "温暖",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "花",
+        "weight": 0.85,
+        "evidenceLines": [
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "树木",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "太阳",
+        "weight": 0.85,
+        "evidenceLines": [
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "田野",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.92,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "cb168b3b-d104-4df7-9868-1e1225ddb941",
+    "sourceIndex": 121,
+    "slug": "tang-cb168b3b",
+    "title": "春晓",
+    "sourceTitle": "春晓",
+    "author": "孟浩然",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "春眠不觉晓，处处闻啼鸟。",
+        "featured": false
+      },
+      {
+        "text": "夜来风雨声，花落知多少。",
+        "featured": true
+      }
+    ],
+    "canonicalText": "春眠不觉晓，处处闻啼鸟。\n夜来风雨声，花落知多少。",
+    "normalizedText": "春眠不觉晓处处闻啼鸟夜来风雨声花落知多少",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "惬意",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "惜春",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "清新",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "雨",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "风",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "花",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "飞鸟",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "春",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "夜晚",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "清晨",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "雨",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "风",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.92,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "0bed9b02-991e-4e28-b631-86640147a712",
+    "sourceIndex": 122,
+    "slug": "tang-0bed9b02",
+    "title": "宿建德江",
+    "sourceTitle": "宿建德江",
+    "author": "孟浩然",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "移舟泊烟渚，日暮客愁新。",
+        "featured": false
+      },
+      {
+        "text": "野旷天低树，江清月近人。",
+        "featured": true
+      }
+    ],
+    "canonicalText": "移舟泊烟渚，日暮客愁新。\n野旷天低树，江清月近人。",
+    "normalizedText": "移舟泊烟渚日暮客愁新野旷天低树江清月近人",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "羁愁",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "思乡",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "静谧",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "江水",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "树木",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "舟船",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "太阳",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "黄昏",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.8,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "e4354c00-c83e-43da-9341-7007889dd625",
+    "sourceIndex": 133,
+    "slug": "tang-e4354c00",
+    "title": "过香积寺",
+    "sourceTitle": "过香积寺",
+    "author": "王维",
+    "dynasty": "唐",
+    "genre": "律诗",
+    "lines": [
+      {
+        "text": "不知香积寺，数里入云峰。",
+        "featured": false
+      },
+      {
+        "text": "古木无人迳，深山何处钟。",
+        "featured": false
+      },
+      {
+        "text": "泉声咽危石，日色冷青松。",
+        "featured": true
+      },
+      {
+        "text": "薄暮空潭曲，安禅制毒龙。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "不知香积寺，数里入云峰。\n古木无人迳，深山何处钟。\n泉声咽危石，日色冷青松。\n薄暮空潭曲，安禅制毒龙。",
+    "normalizedText": "不知香积寺数里入云峰古木无人迳深山何处钟泉声咽危石日色冷青松薄暮空潭曲安禅制毒龙",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "宁静",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "寻幽",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "幽深",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "云",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "松树",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "太阳",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "泉水",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "古寺",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "黄昏",
+        "weight": 0.9,
+        "evidenceLines": [
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "多云",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "00f12a19-bb96-4980-a4f5-11a1b9d604dd",
+    "sourceIndex": 134,
+    "slug": "tang-00f12a19",
+    "title": "山居秋暝",
+    "sourceTitle": "山居秋暝",
+    "author": "王维",
+    "dynasty": "唐",
+    "genre": "律诗",
+    "lines": [
+      {
+        "text": "空山新雨后，天气晚来秋。",
+        "featured": true
+      },
+      {
+        "text": "明月松间照，清泉石上流。",
+        "featured": false
+      },
+      {
+        "text": "竹喧归浣女，莲动下渔舟。",
+        "featured": false
+      },
+      {
+        "text": "随意春芳歇，王孙自可留。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "空山新雨后，天气晚来秋。\n明月松间照，清泉石上流。\n竹喧归浣女，莲动下渔舟。\n随意春芳歇，王孙自可留。",
+    "normalizedText": "空山新雨后天气晚来秋明月松间照清泉石上流竹喧归浣女莲动下渔舟随意春芳歇王孙自可留",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "闲适",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "山水",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "清幽",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "雨",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "松树",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "竹林",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "舟船",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "泉水",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "春",
+        "weight": 0.9,
+        "evidenceLines": [
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "秋",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "雨",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "40cd6eec-c6ce-4659-a225-61063cd210e9",
+    "sourceIndex": 136,
+    "slug": "tang-40cd6eec",
+    "title": "归嵩山作",
+    "sourceTitle": "归嵩山作",
+    "author": "王维",
+    "dynasty": "唐",
+    "genre": "律诗",
+    "lines": [
+      {
+        "text": "清川带长薄，车马去闲闲。",
+        "featured": false
+      },
+      {
+        "text": "流水如有意，暮禽相与还。",
+        "featured": false
+      },
+      {
+        "text": "荒城临古渡，落日满秋山。",
+        "featured": true
+      },
+      {
+        "text": "迢递嵩高下，归来且闭关。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "清川带长薄，车马去闲闲。\n流水如有意，暮禽相与还。\n荒城临古渡，落日满秋山。\n迢递嵩高下，归来且闭关。",
+    "normalizedText": "清川带长薄车马去闲闲流水如有意暮禽相与还荒城临古渡落日满秋山迢递嵩高下归来且闭关",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "淡泊",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "归隐",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "清远",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "水面",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "太阳",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "城郭",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "关塞",
+        "weight": 0.85,
+        "evidenceLines": [
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "马",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "秋",
+        "weight": 0.9,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "黄昏",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "a5b1f5c9-1ba7-4533-b497-55b1d4af1bbb",
+    "sourceIndex": 137,
+    "slug": "tang-a5b1f5c9",
+    "title": "终南山",
+    "sourceTitle": "终南山",
+    "author": "王维",
+    "dynasty": "唐",
+    "genre": "律诗",
+    "lines": [
+      {
+        "text": "太乙近天都，连山接海隅。",
+        "featured": true
+      },
+      {
+        "text": "白云回望合，青霭入看无。",
+        "featured": false
+      },
+      {
+        "text": "分野中峰变，阴晴众壑殊。",
+        "featured": false
+      },
+      {
+        "text": "欲投人处宿，隔水问樵夫。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "太乙近天都，连山接海隅。\n白云回望合，青霭入看无。\n分野中峰变，阴晴众壑殊。\n欲投人处宿，隔水问樵夫。",
+    "normalizedText": "太乙近天都连山接海隅白云回望合青霭入看无分野中峰变阴晴众壑殊欲投人处宿隔水问樵夫",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "壮阔",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "山水",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "雄奇",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "水面",
+        "weight": 0.85,
+        "evidenceLines": [
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "云",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "多云",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "2e8999a9-9df8-4483-ab1e-0231c3e46320",
+    "sourceIndex": 143,
+    "slug": "tang-2e8999a9",
+    "title": "鹿柴",
+    "sourceTitle": "辋川集 鹿柴",
+    "author": "王维",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "空山不见人，但闻人语响。",
+        "featured": true
+      },
+      {
+        "text": "返景入深林，复照青苔上。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "空山不见人，但闻人语响。\n返景入深林，复照青苔上。",
+    "normalizedText": "空山不见人但闻人语响返景入深林复照青苔上",
+    "aliases": [
+      "辋川集 鹿柴"
+    ],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "宁静",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "山水",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "空灵",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "36e09cb4-4fb7-48be-b6c6-c9bd906d9331",
+    "sourceIndex": 144,
+    "slug": "tang-36e09cb4",
+    "title": "竹里馆",
+    "sourceTitle": "辋川集 竹里馆",
+    "author": "王维",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "独坐幽篁里，弹琴复长啸。",
+        "featured": false
+      },
+      {
+        "text": "深林人不知，明月来相照。",
+        "featured": true
+      }
+    ],
+    "canonicalText": "独坐幽篁里，弹琴复长啸。\n深林人不知，明月来相照。",
+    "normalizedText": "独坐幽篁里弹琴复长啸深林人不知明月来相照",
+    "aliases": [
+      "辋川集 竹里馆"
+    ],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "孤高",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "归隐",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "幽静",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.84,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "8baa7c35-9afb-40bf-b5e4-41d9895e2710",
+    "sourceIndex": 147,
+    "slug": "tang-8baa7c35",
+    "title": "相思",
+    "sourceTitle": "相思",
+    "author": "王维",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "红豆生南国，秋来发故枝。",
+        "featured": true
+      },
+      {
+        "text": "愿君多采撷，此物最相思。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "红豆生南国，秋来发故枝。\n愿君多采撷，此物最相思。",
+    "normalizedText": "红豆生南国秋来发故枝愿君多采撷此物最相思",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "思念",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "爱情",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "含蓄",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "红豆",
+        "weight": 0.95,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "秋",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "6bbd1c2c-8c43-4ffb-b7b3-506d74266cee",
+    "sourceIndex": 148,
+    "slug": "tang-6bbd1c2c",
+    "title": "九月九日忆山东兄弟",
+    "sourceTitle": "九月九日忆山东兄弟",
+    "author": "王维",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "独在异乡为异客，每逢佳节倍思亲。",
+        "featured": false
+      },
+      {
+        "text": "遥知兄弟登高处，遍插茱萸少一人。",
+        "featured": true
+      }
+    ],
+    "canonicalText": "独在异乡为异客，每逢佳节倍思亲。\n遥知兄弟登高处，遍插茱萸少一人。",
+    "normalizedText": "独在异乡为异客每逢佳节倍思亲遥知兄弟登高处遍插茱萸少一人",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "思乡",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "怀亲",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "深沉",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "茱萸",
+        "weight": 0.95,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.84,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "1575c835-1241-4d7b-99dc-6d700549ac65",
+    "sourceIndex": 149,
+    "slug": "tang-1575c835",
+    "title": "渭城曲",
+    "sourceTitle": "渭城曲",
+    "author": "王维",
+    "dynasty": "唐",
+    "genre": "古体诗",
+    "lines": [
+      {
+        "text": "渭城朝雨浥轻尘，客舍青青杨柳春。",
+        "featured": true
+      },
+      {
+        "text": "劝君更尽一杯酒，西出阳关无故人。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "渭城朝雨浥轻尘，客舍青青杨柳春。\n劝君更尽一杯酒，西出阳关无故人。",
+    "normalizedText": "渭城朝雨浥轻尘客舍青青杨柳春劝君更尽一杯酒西出阳关无故人",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "惜别",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "送别",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "清润",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "雨",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "城郭",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "关塞",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "柳树",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "春",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "清晨",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "雨",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.84,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "4ac3f099-73da-43e8-a4e5-1dbbd9427491",
+    "sourceIndex": 171,
+    "slug": "tang-4ac3f099",
+    "title": "闺怨",
+    "sourceTitle": "闺怨",
+    "author": "王昌龄",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "闺中少妇不曾愁，春日凝妆上翠楼。",
+        "featured": true
+      },
+      {
+        "text": "忽见陌头杨柳色，悔教夫壻觅封侯。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "闺中少妇不曾愁，春日凝妆上翠楼。\n忽见陌头杨柳色，悔教夫壻觅封侯。",
+    "normalizedText": "闺中少妇不曾愁春日凝妆上翠楼忽见陌头杨柳色悔教夫壻觅封侯",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "哀怨",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "闺怨",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "明丽",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "太阳",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "楼阁",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "柳树",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "春",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "090b7792-2942-4f3c-a34d-caccd066c76f",
+    "sourceIndex": 172,
+    "slug": "tang-090b7792",
+    "title": "芙蓉楼送辛渐",
+    "sourceTitle": "芙蓉楼送辛渐二首 一",
+    "author": "王昌龄",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "寒雨连天夜入湖，平明送客楚山孤。",
+        "featured": true
+      },
+      {
+        "text": "洛阳亲友如相问，一片冰心在玉壶。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "寒雨连天夜入湖，平明送客楚山孤。\n洛阳亲友如相问，一片冰心在玉壶。",
+    "normalizedText": "寒雨连天夜入湖平明送客楚山孤洛阳亲友如相问一片冰心在玉壶",
+    "aliases": [
+      "芙蓉楼送辛渐二首 一"
+    ],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "惜别",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "送别",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "清寒",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "湖水",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "雨",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "夜晚",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "雨",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.84,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "0174cbbc-31fa-4daf-b1cf-7f91c6a646a9",
+    "sourceIndex": 180,
+    "slug": "tang-0174cbbc",
+    "title": "赋得古原草送别",
+    "sourceTitle": "赋得古原草送别",
+    "author": "白居易",
+    "dynasty": "唐",
+    "genre": "律诗",
+    "lines": [
+      {
+        "text": "离离原上草，一岁一枯荣。",
+        "featured": false
+      },
+      {
+        "text": "野火烧不尽，春风吹又生。",
+        "featured": true
+      },
+      {
+        "text": "远芳侵古道，晴翠接荒城。",
+        "featured": false
+      },
+      {
+        "text": "又送王孙去，萋萋满别情。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "离离原上草，一岁一枯荣。\n野火烧不尽，春风吹又生。\n远芳侵古道，晴翠接荒城。\n又送王孙去，萋萋满别情。",
+    "normalizedText": "离离原上草一岁一枯荣野火烧不尽春风吹又生远芳侵古道晴翠接荒城又送王孙去萋萋满别情",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "惜别",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "送别",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "蓬勃",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "风",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "草木",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "城郭",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "灯火",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "春",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "风",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.84,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "4f6575cc-12cc-4986-8bfc-5cedac7bb68f",
+    "sourceIndex": 183,
+    "slug": "tang-4f6575cc",
+    "title": "寻隐者不遇",
+    "sourceTitle": "寻隐者不遇",
+    "author": "贾岛",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "松下问童子，言师采药去。",
+        "featured": false
+      },
+      {
+        "text": "只在此山中，云深不知处。",
+        "featured": true
+      }
+    ],
+    "canonicalText": "松下问童子，言师采药去。\n只在此山中，云深不知处。",
+    "normalizedText": "松下问童子言师采药去只在此山中云深不知处",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "淡然",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "寻访",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "幽静",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "云",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "松树",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "多云",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "469dec8b-ba5e-4faf-b52f-2ad203e38d81",
+    "sourceIndex": 203,
+    "slug": "tang-469dec8b",
+    "title": "溪居",
+    "sourceTitle": "溪居",
+    "author": "柳宗元",
+    "dynasty": "唐",
+    "genre": "古体诗",
+    "lines": [
+      {
+        "text": "久为簪组累，幸此南夷谪。",
+        "featured": false
+      },
+      {
+        "text": "闲依农圃邻，偶似山林客。",
+        "featured": false
+      },
+      {
+        "text": "晓耕翻露草，夜榜响溪石。",
+        "featured": true
+      },
+      {
+        "text": "来往不逢人，长歌楚天碧。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "久为簪组累，幸此南夷谪。\n闲依农圃邻，偶似山林客。\n晓耕翻露草，夜榜响溪石。\n来往不逢人，长歌楚天碧。",
+    "normalizedText": "久为簪组累幸此南夷谪闲依农圃邻偶似山林客晓耕翻露草夜榜响溪石来往不逢人长歌楚天碧",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "孤寂",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "隐居",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "清幽",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "草木",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "露水",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "夜晚",
+        "weight": 0.9,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "清晨",
+        "weight": 0.9,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "1f92134b-bca9-46eb-b2fe-87b30413041a",
+    "sourceIndex": 204,
+    "slug": "tang-1f92134b",
+    "title": "江雪",
+    "sourceTitle": "江雪",
+    "author": "柳宗元",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "千山鸟飞绝，万径人踪灭。",
+        "featured": false
+      },
+      {
+        "text": "孤舟蓑笠翁，独钓寒江雪。",
+        "featured": true
+      }
+    ],
+    "canonicalText": "千山鸟飞绝，万径人踪灭。\n孤舟蓑笠翁，独钓寒江雪。",
+    "normalizedText": "千山鸟飞绝万径人踪灭孤舟蓑笠翁独钓寒江雪",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "孤高",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "山水",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "清寒",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "江水",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "雪",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "飞鸟",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "舟船",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "冬",
+        "weight": 0.9,
+        "evidenceLines": [],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "雪",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "51b1aeeb-9a66-412d-b15c-4afaa6c6b1d7",
+    "sourceIndex": 205,
+    "slug": "tang-51b1aeeb",
+    "title": "渔翁",
+    "sourceTitle": "渔翁",
+    "author": "柳宗元",
+    "dynasty": "唐",
+    "genre": "古体诗",
+    "lines": [
+      {
+        "text": "渔翁夜傍西岩宿，晓汲清湘燃楚竹。",
+        "featured": false
+      },
+      {
+        "text": "烟销日出不见人，欸乃一声山水绿。",
+        "featured": true
+      },
+      {
+        "text": "回看天际下中流，岩上无心云相逐。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "渔翁夜傍西岩宿，晓汲清湘燃楚竹。\n烟销日出不见人，欸乃一声山水绿。\n回看天际下中流，岩上无心云相逐。",
+    "normalizedText": "渔翁夜傍西岩宿晓汲清湘燃楚竹烟销日出不见人欸乃一声山水绿回看天际下中流岩上无心云相逐",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "超然",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "山水",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "奇幻",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "水面",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "云",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "竹林",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "太阳",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "夜晚",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "清晨",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "多云",
+        "weight": 0.9,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "e9e6425c-6c14-4f69-8694-87a8b96a43de",
+    "sourceIndex": 208,
+    "slug": "tang-e9e6425c",
+    "title": "春望",
+    "sourceTitle": "春望",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "genre": "律诗",
+    "lines": [
+      {
+        "text": "国破山河在，城春草木深。",
+        "featured": true
+      },
+      {
+        "text": "感时花溅泪，恨别鸟惊心。",
+        "featured": false
+      },
+      {
+        "text": "烽火连三月，家书抵万金。",
+        "featured": false
+      },
+      {
+        "text": "白头搔更短，浑欲不胜簪。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "国破山河在，城春草木深。\n感时花溅泪，恨别鸟惊心。\n烽火连三月，家书抵万金。\n白头搔更短，浑欲不胜簪。",
+    "normalizedText": "国破山河在城春草木深感时花溅泪恨别鸟惊心烽火连三月家书抵万金白头搔更短浑欲不胜簪",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "悲怆",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "忧国",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "沉郁",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "河流",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "花",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "草木",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "飞鸟",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "城郭",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "灯火",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "春",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.84,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "c1280e87-ac81-4f9b-9de5-377d6af38ae8",
+    "sourceIndex": 211,
+    "slug": "tang-c1280e87",
+    "title": "月夜忆舍弟",
+    "sourceTitle": "月夜忆舍弟",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "genre": "律诗",
+    "lines": [
+      {
+        "text": "戍鼓断人行，秋边一雁声。",
+        "featured": false
+      },
+      {
+        "text": "露从今夜白，月是故乡明。",
+        "featured": true
+      },
+      {
+        "text": "有弟皆分散，无家问死生。",
+        "featured": false
+      },
+      {
+        "text": "寄书长不避，况乃未休兵。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "戍鼓断人行，秋边一雁声。\n露从今夜白，月是故乡明。\n有弟皆分散，无家问死生。\n寄书长不避，况乃未休兵。",
+    "normalizedText": "戍鼓断人行秋边一雁声露从今夜白月是故乡明有弟皆分散无家问死生寄书长不避况乃未休兵",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "思念",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "怀亲",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "清冷",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "雁",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "露水",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "秋",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "夜晚",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "a4d718ee-c020-42b4-97df-499cd0076f7b",
+    "sourceIndex": 218,
+    "slug": "tang-a4d718ee",
+    "title": "登高",
+    "sourceTitle": "登高",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "genre": "律诗",
+    "lines": [
+      {
+        "text": "风急天高猨啸哀，渚清沙白鸟飞回。",
+        "featured": true
+      },
+      {
+        "text": "无边落木萧萧下，不尽长江衮衮来。",
+        "featured": false
+      },
+      {
+        "text": "万里悲秋常作客，百年多病独登台。",
+        "featured": false
+      },
+      {
+        "text": "艰难苦恨繁霜鬓，潦倒新停浊酒桮。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "风急天高猨啸哀，渚清沙白鸟飞回。\n无边落木萧萧下，不尽长江衮衮来。\n万里悲秋常作客，百年多病独登台。\n艰难苦恨繁霜鬓，潦倒新停浊酒桮。",
+    "normalizedText": "风急天高猨啸哀渚清沙白鸟飞回无边落木萧萧下不尽长江衮衮来万里悲秋常作客百年多病独登台艰难苦恨繁霜鬓潦倒新停浊酒桮",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "悲秋",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "羁旅",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "苍凉",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "江水",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "风",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "飞鸟",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "霜",
+        "weight": 0.85,
+        "evidenceLines": [
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "秋",
+        "weight": 0.9,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "霜",
+        "weight": 0.9,
+        "evidenceLines": [
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "风",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "f96506ea-e8ac-47e0-a0a6-ccd306e56645",
+    "sourceIndex": 222,
+    "slug": "tang-f96506ea",
+    "title": "旅夜书怀",
+    "sourceTitle": "旅夜书怀",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "genre": "律诗",
+    "lines": [
+      {
+        "text": "细草微风岸，危樯独夜舟。",
+        "featured": true
+      },
+      {
+        "text": "星垂平野阔，月涌大江流。",
+        "featured": false
+      },
+      {
+        "text": "名岂文章著，官因老病休。",
+        "featured": false
+      },
+      {
+        "text": "飘飘何所似，天地一沙鸥。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "细草微风岸，危樯独夜舟。\n星垂平野阔，月涌大江流。\n名岂文章著，官因老病休。\n飘飘何所似，天地一沙鸥。",
+    "normalizedText": "细草微风岸危樯独夜舟星垂平野阔月涌大江流名岂文章著官因老病休飘飘何所似天地一沙鸥",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "孤独",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "羁旅",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "旷远",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "江水",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "风",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "草木",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "舟船",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "星空",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "夜晚",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "风",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "2c152693-c25f-45ce-8ef2-cbedce1a62bc",
+    "sourceIndex": 233,
+    "slug": "tang-2c152693",
+    "title": "望月怀远",
+    "sourceTitle": "望月怀远",
+    "author": "张九龄",
+    "dynasty": "唐",
+    "genre": "律诗",
+    "lines": [
+      {
+        "text": "海上生明月，天涯共此时。",
+        "featured": true
+      },
+      {
+        "text": "情人怨遥夜，竟夕起相思。",
+        "featured": false
+      },
+      {
+        "text": "灭烛怜光满，披衣觉露滋。",
+        "featured": false
+      },
+      {
+        "text": "不堪盈手赠，还寝梦佳期。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "海上生明月，天涯共此时。\n情人怨遥夜，竟夕起相思。\n灭烛怜光满，披衣觉露滋。\n不堪盈手赠，还寝梦佳期。",
+    "normalizedText": "海上生明月天涯共此时情人怨遥夜竟夕起相思灭烛怜光满披衣觉露滋不堪盈手赠还寝梦佳期",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "思念",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "望月",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "静谧",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "露水",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "秋",
+        "weight": 0.9,
+        "evidenceLines": [],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "夜晚",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "黄昏",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "12fdaad8-b197-4526-b56d-c7c713267248",
+    "sourceIndex": 241,
+    "slug": "tang-12fdaad8",
+    "title": "望岳",
+    "sourceTitle": "望岳",
+    "author": "杜甫",
+    "dynasty": "唐",
+    "genre": "古体诗",
+    "lines": [
+      {
+        "text": "岱宗夫如何，齐鲁青未了。",
+        "featured": false
+      },
+      {
+        "text": "造化钟神秀，阴阳割昏晓。",
+        "featured": false
+      },
+      {
+        "text": "荡胷生曾云，决眦入归鸟。",
+        "featured": true
+      },
+      {
+        "text": "会当凌绝顶，一览众山小。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "岱宗夫如何，齐鲁青未了。\n造化钟神秀，阴阳割昏晓。\n荡胷生曾云，决眦入归鸟。\n会当凌绝顶，一览众山小。",
+    "normalizedText": "岱宗夫如何齐鲁青未了造化钟神秀阴阳割昏晓荡胷生曾云决眦入归鸟会当凌绝顶一览众山小",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "豪迈",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "登临",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "雄伟",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "云",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "飞鸟",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "清晨",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "多云",
+        "weight": 0.9,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.84,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "4fa92777-9bd6-45ca-9272-bac30459cf5e",
+    "sourceIndex": 269,
+    "slug": "tang-4fa92777",
+    "title": "乌衣巷",
+    "sourceTitle": "金陵五题 乌衣巷",
+    "author": "刘禹锡",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "朱雀桥边野草花，乌衣巷口夕阳斜。",
+        "featured": true
+      },
+      {
+        "text": "旧时王谢堂前燕，飞入寻常百姓家。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "朱雀桥边野草花，乌衣巷口夕阳斜。\n旧时王谢堂前燕，飞入寻常百姓家。",
+    "normalizedText": "朱雀桥边野草花乌衣巷口夕阳斜旧时王谢堂前燕飞入寻常百姓家",
+    "aliases": [
+      "金陵五题 乌衣巷"
+    ],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "感慨",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "怀古",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "寂寥",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "花",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "草木",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "夕阳",
+        "weight": 0.95,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "黄昏",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "3cda5a92-ffa2-4af0-9217-97ce36113705",
+    "sourceIndex": 280,
+    "slug": "tang-3cda5a92",
+    "title": "枫桥夜泊",
+    "sourceTitle": "枫桥夜泊",
+    "author": "张继",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "月落乌啼霜满天，江枫渔火对愁眠。",
+        "featured": true
+      },
+      {
+        "text": "姑苏城外寒山寺，夜半钟声到客船。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "月落乌啼霜满天，江枫渔火对愁眠。\n姑苏城外寒山寺，夜半钟声到客船。",
+    "normalizedText": "月落乌啼霜满天江枫渔火对愁眠姑苏城外寒山寺夜半钟声到客船",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "羁愁",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "羁旅",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "清冷",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "江水",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "舟船",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "霜",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "古寺",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "城郭",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "灯火",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "秋",
+        "weight": 0.9,
+        "evidenceLines": [],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "夜晚",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "霜",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "0ae0e3bd-a32e-481f-9719-b283da2da964",
+    "sourceIndex": 292,
+    "slug": "tang-0ae0e3bd",
+    "title": "滁州西涧",
+    "sourceTitle": "滁州西涧",
+    "author": "韦应物",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "独怜幽草涧边生，上有黄鹂深树鸣。",
+        "featured": true
+      },
+      {
+        "text": "春潮带雨晚来急，野渡无人舟自横。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "独怜幽草涧边生，上有黄鹂深树鸣。\n春潮带雨晚来急，野渡无人舟自横。",
+    "normalizedText": "独怜幽草涧边生上有黄鹂深树鸣春潮带雨晚来急野渡无人舟自横",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "闲适",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "山水",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "幽雅",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "雨",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "草木",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "树木",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "舟船",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "春",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "雨",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.84,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "294bc7b2-b4f8-4a53-be17-a40ded4afd1a",
+    "sourceIndex": 295,
+    "slug": "tang-294bc7b2",
+    "title": "白雪歌送武判官归京",
+    "sourceTitle": "白雪歌送武判官归京",
+    "author": "岑参",
+    "dynasty": "唐",
+    "genre": "古体诗",
+    "lines": [
+      {
+        "text": "北风卷地白草折，胡天八月即飞雪。",
+        "featured": true
+      },
+      {
+        "text": "忽然一夜春风来，千树万树梨花开。",
+        "featured": false
+      },
+      {
+        "text": "散入珠帘湿罗幕，狐裘不煖锦衾薄。",
+        "featured": false
+      },
+      {
+        "text": "将军角弓不得控，都护铁衣冷难着。",
+        "featured": false
+      },
+      {
+        "text": "瀚海阑干百丈冰，愁云黪淡万里凝。",
+        "featured": false
+      },
+      {
+        "text": "中军置酒饮归客，胡琴琵琶与羌笛。",
+        "featured": false
+      },
+      {
+        "text": "纷纷暮雪下辕门，风掣红旗冻不翻。",
+        "featured": false
+      },
+      {
+        "text": "轮台东门送君去，去时雪满天山路。",
+        "featured": false
+      },
+      {
+        "text": "山回路转不见君，雪上空留马行处。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "北风卷地白草折，胡天八月即飞雪。\n忽然一夜春风来，千树万树梨花开。\n散入珠帘湿罗幕，狐裘不煖锦衾薄。\n将军角弓不得控，都护铁衣冷难着。\n瀚海阑干百丈冰，愁云黪淡万里凝。\n中军置酒饮归客，胡琴琵琶与羌笛。\n纷纷暮雪下辕门，风掣红旗冻不翻。\n轮台东门送君去，去时雪满天山路。\n山回路转不见君，雪上空留马行处。",
+    "normalizedText": "北风卷地白草折胡天八月即飞雪忽然一夜春风来千树万树梨花开散入珠帘湿罗幕狐裘不煖锦衾薄将军角弓不得控都护铁衣冷难着瀚海阑干百丈冰愁云黪淡万里凝中军置酒饮归客胡琴琵琶与羌笛纷纷暮雪下辕门风掣红旗冻不翻轮台东门送君去去时雪满天山路山回路转不见君雪上空留马行处",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "豪迈",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "送别",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "壮丽",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          7,
+          8
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "雪",
+        "weight": 0.85,
+        "evidenceLines": [
+          0,
+          6
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "云",
+        "weight": 0.85,
+        "evidenceLines": [
+          4
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "风",
+        "weight": 0.85,
+        "evidenceLines": [
+          0,
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "花",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "草木",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "树木",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          0,
+          7
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "马",
+        "weight": 0.85,
+        "evidenceLines": [
+          8
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "春",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "冬",
+        "weight": 0.9,
+        "evidenceLines": [],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "夜晚",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "黄昏",
+        "weight": 0.9,
+        "evidenceLines": [
+          6
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "雪",
+        "weight": 0.9,
+        "evidenceLines": [
+          0,
+          6
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "风",
+        "weight": 0.9,
+        "evidenceLines": [
+          0,
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "多云",
+        "weight": 0.9,
+        "evidenceLines": [
+          4
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.84,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "07238ad9-c348-43d4-b1d7-25d89369286d",
+    "sourceIndex": 300,
+    "slug": "tang-07238ad9",
+    "title": "逢入京使",
+    "sourceTitle": "逢入京使",
+    "author": "岑参",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "故园东望路漫漫，双袖龙钟泪不干。",
+        "featured": false
+      },
+      {
+        "text": "马上相逢无纸笔，凭君传语报平安。",
+        "featured": true
+      }
+    ],
+    "canonicalText": "故园东望路漫漫，双袖龙钟泪不干。\n马上相逢无纸笔，凭君传语报平安。",
+    "normalizedText": "故园东望路漫漫双袖龙钟泪不干马上相逢无纸笔凭君传语报平安",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "思乡",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "羁旅",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "真挚",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "马",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.84,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "4be77185-992e-4614-9746-de2e73c8a3c3",
+    "sourceIndex": 307,
+    "slug": "tang-4be77185",
+    "title": "关山月",
+    "sourceTitle": "关山月",
+    "author": "李白",
+    "dynasty": "唐",
+    "genre": "乐府",
+    "lines": [
+      {
+        "text": "明月出天山，苍茫云海间。",
+        "featured": true
+      },
+      {
+        "text": "长风几万里，吹度玉门关。",
+        "featured": false
+      },
+      {
+        "text": "汉下白登道，胡窥青海湾。",
+        "featured": false
+      },
+      {
+        "text": "由来征战地，不见有人还。",
+        "featured": false
+      },
+      {
+        "text": "戍客望边色，思归多苦颜。",
+        "featured": false
+      },
+      {
+        "text": "高楼当此夜，叹息未应闲。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "明月出天山，苍茫云海间。\n长风几万里，吹度玉门关。\n汉下白登道，胡窥青海湾。\n由来征战地，不见有人还。\n戍客望边色，思归多苦颜。\n高楼当此夜，叹息未应闲。",
+    "normalizedText": "明月出天山苍茫云海间长风几万里吹度玉门关汉下白登道胡窥青海湾由来征战地不见有人还戍客望边色思归多苦颜高楼当此夜叹息未应闲",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "思乡",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "边塞",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "苍茫",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "云",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "风",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "楼阁",
+        "weight": 0.85,
+        "evidenceLines": [
+          5
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "关塞",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "秋",
+        "weight": 0.9,
+        "evidenceLines": [],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "夜晚",
+        "weight": 0.9,
+        "evidenceLines": [
+          5
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "风",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "多云",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "ca2c489a-e433-4c0f-8248-77d354f0665e",
+    "sourceIndex": 311,
+    "slug": "tang-ca2c489a",
+    "title": "静夜思",
+    "sourceTitle": "静夜思",
+    "author": "李白",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "床前明月光，疑是地上霜。",
+        "featured": true
+      },
+      {
+        "text": "举头望明月，低头思故乡。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "床前明月光，疑是地上霜。\n举头望明月，低头思故乡。",
+    "normalizedText": "床前明月光疑是地上霜举头望明月低头思故乡",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "思乡",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "怀乡",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "静谧",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          0,
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "霜",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "秋",
+        "weight": 0.9,
+        "evidenceLines": [],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "霜",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.84,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "d43a4767-2240-44b7-8d5b-c2acdc689839",
+    "sourceIndex": 321,
+    "slug": "tang-d43a4767",
+    "title": "黄鹤楼送孟浩然之广陵",
+    "sourceTitle": "黄鹤楼送孟浩然之广陵",
+    "author": "李白",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "故人西辞黄鹤楼，烟花三月下扬州。",
+        "featured": true
+      },
+      {
+        "text": "孤帆远影碧空尽，唯见长江天际流。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "故人西辞黄鹤楼，烟花三月下扬州。\n孤帆远影碧空尽，唯见长江天际流。",
+    "normalizedText": "故人西辞黄鹤楼烟花三月下扬州孤帆远影碧空尽唯见长江天际流",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "惜别",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "送别",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "明朗",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "江水",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "花",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "楼阁",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.84,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "bf8918b8-a05a-4ccf-bb2e-3f9b81f6bbfc",
+    "sourceIndex": 322,
+    "slug": "tang-bf8918b8",
+    "title": "渡荆门送别",
+    "sourceTitle": "渡荆门送别",
+    "author": "李白",
+    "dynasty": "唐",
+    "genre": "律诗",
+    "lines": [
+      {
+        "text": "渡远荆门外，来从楚国游。",
+        "featured": false
+      },
+      {
+        "text": "山随平野尽，江入大荒流。",
+        "featured": false
+      },
+      {
+        "text": "月下飞天镜，云生结海楼。",
+        "featured": true
+      },
+      {
+        "text": "仍连故乡水，万里送行舟。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "渡远荆门外，来从楚国游。\n山随平野尽，江入大荒流。\n月下飞天镜，云生结海楼。\n仍连故乡水，万里送行舟。",
+    "normalizedText": "渡远荆门外来从楚国游山随平野尽江入大荒流月下飞天镜云生结海楼仍连故乡水万里送行舟",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "思乡",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "远行",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "开阔",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "江水",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "水面",
+        "weight": 0.85,
+        "evidenceLines": [
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "云",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "舟船",
+        "weight": 0.85,
+        "evidenceLines": [
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "楼阁",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "多云",
+        "weight": 0.9,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.84,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "9525f99d-39cb-4d04-8650-263493d223e0",
+    "sourceIndex": 327,
+    "slug": "tang-9525f99d",
+    "title": "早发白帝城",
+    "sourceTitle": "早发白帝城",
+    "author": "李白",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "朝辞白帝彩云间，千里江陵一日还。",
+        "featured": true
+      },
+      {
+        "text": "两岸猿声啼不尽，轻舟已过万重山。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "朝辞白帝彩云间，千里江陵一日还。\n两岸猿声啼不尽，轻舟已过万重山。",
+    "normalizedText": "朝辞白帝彩云间千里江陵一日还两岸猿声啼不尽轻舟已过万重山",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "喜悦",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "行旅",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "轻快",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "江水",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "云",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "猿",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "舟船",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "太阳",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "清晨",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "多云",
+        "weight": 0.9,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "83e70b6e-ff59-4a3b-8e81-249ab0cda0c3",
+    "sourceIndex": 329,
+    "slug": "tang-83e70b6e",
+    "title": "月下独酌",
+    "sourceTitle": "月下独酌四首 一",
+    "author": "李白",
+    "dynasty": "唐",
+    "genre": "古体诗",
+    "lines": [
+      {
+        "text": "花间一壶酒，独酌无相亲。",
+        "featured": true
+      },
+      {
+        "text": "举杯邀明月，对影成三人。",
+        "featured": false
+      },
+      {
+        "text": "月既不解饮，影徒随我身。",
+        "featured": false
+      },
+      {
+        "text": "暂伴月将影，行乐须及春。",
+        "featured": false
+      },
+      {
+        "text": "我歌月裴回，我舞影零乱。",
+        "featured": false
+      },
+      {
+        "text": "醒时同交欢，醉后各分散。",
+        "featured": false
+      },
+      {
+        "text": "永结无情游，相期邈云汉。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "花间一壶酒，独酌无相亲。\n举杯邀明月，对影成三人。\n月既不解饮，影徒随我身。\n暂伴月将影，行乐须及春。\n我歌月裴回，我舞影零乱。\n醒时同交欢，醉后各分散。\n永结无情游，相期邈云汉。",
+    "normalizedText": "花间一壶酒独酌无相亲举杯邀明月对影成三人月既不解饮影徒随我身暂伴月将影行乐须及春我歌月裴回我舞影零乱醒时同交欢醉后各分散永结无情游相期邈云汉",
+    "aliases": [
+      "月下独酌四首 一"
+    ],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "孤独",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "饮酒",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "浪漫",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          1,
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "云",
+        "weight": 0.85,
+        "evidenceLines": [
+          6
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "花",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "春",
+        "weight": 0.9,
+        "evidenceLines": [
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "season",
+        "name": "秋",
+        "weight": 0.9,
+        "evidenceLines": [],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "多云",
+        "weight": 0.9,
+        "evidenceLines": [
+          6
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.84,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "63950163-6a10-4e74-af8a-09886e4ef2a8",
+    "sourceIndex": 361,
+    "slug": "tang-63950163",
+    "title": "登鹳雀楼",
+    "sourceTitle": "登鹳雀楼",
+    "author": "王之涣",
+    "dynasty": "唐",
+    "genre": "绝句",
+    "lines": [
+      {
+        "text": "白日依山尽，黄河入海流。",
+        "featured": true
+      },
+      {
+        "text": "欲穷千里目，更上一层楼。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "白日依山尽，黄河入海流。\n欲穷千里目，更上一层楼。",
+    "normalizedText": "白日依山尽黄河入海流欲穷千里目更上一层楼",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "豪迈",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "登临",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "壮阔",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "山峦",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "河流",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "太阳",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "楼阁",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  },
+  {
+    "sourceId": "e5e5f969-ddac-4491-9cfe-d77742e1416d",
+    "sourceIndex": 124,
+    "slug": "tang-e5e5f969",
+    "title": "将进酒",
+    "sourceTitle": "将进酒",
+    "author": "李白",
+    "dynasty": "唐",
+    "genre": "乐府",
+    "lines": [
+      {
+        "text": "君不见黄河之水天上来，奔流到海不复回。",
+        "featured": true
+      },
+      {
+        "text": "君不见高堂明镜悲白发，朝如青丝暮成雪。",
+        "featured": false
+      },
+      {
+        "text": "人生得意须尽欢，莫使金樽空对月。",
+        "featured": false
+      },
+      {
+        "text": "天生我材必有用，千金散尽还复来。",
+        "featured": false
+      },
+      {
+        "text": "烹羊宰牛且为乐，会须一饮三百杯。",
+        "featured": false
+      },
+      {
+        "text": "岑夫子，丹丘生，将进酒，君莫停。",
+        "featured": false
+      },
+      {
+        "text": "与君歌一曲，请君为我侧耳听。",
+        "featured": false
+      },
+      {
+        "text": "钟鼓馔玉不足贵，但愿长醉不愿醒。",
+        "featured": false
+      },
+      {
+        "text": "古来圣贤皆寂寞，惟有饮者留其名。",
+        "featured": false
+      },
+      {
+        "text": "陈王昔时宴平乐，斗酒十千恣讙谑。",
+        "featured": false
+      },
+      {
+        "text": "主人何为言少钱，径须沽取对君酌。",
+        "featured": false
+      },
+      {
+        "text": "五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。",
+        "featured": false
+      }
+    ],
+    "canonicalText": "君不见黄河之水天上来，奔流到海不复回。\n君不见高堂明镜悲白发，朝如青丝暮成雪。\n人生得意须尽欢，莫使金樽空对月。\n天生我材必有用，千金散尽还复来。\n烹羊宰牛且为乐，会须一饮三百杯。\n岑夫子，丹丘生，将进酒，君莫停。\n与君歌一曲，请君为我侧耳听。\n钟鼓馔玉不足贵，但愿长醉不愿醒。\n古来圣贤皆寂寞，惟有饮者留其名。\n陈王昔时宴平乐，斗酒十千恣讙谑。\n主人何为言少钱，径须沽取对君酌。\n五花马，千金裘，呼儿将出换美酒，与尔同销万古愁。",
+    "normalizedText": "君不见黄河之水天上来奔流到海不复回君不见高堂明镜悲白发朝如青丝暮成雪人生得意须尽欢莫使金樽空对月天生我材必有用千金散尽还复来烹羊宰牛且为乐会须一饮三百杯岑夫子丹丘生将进酒君莫停与君歌一曲请君为我侧耳听钟鼓馔玉不足贵但愿长醉不愿醒古来圣贤皆寂寞惟有饮者留其名陈王昔时宴平乐斗酒十千恣讙谑主人何为言少钱径须沽取对君酌五花马千金裘呼儿将出换美酒与尔同销万古愁",
+    "aliases": [],
+    "tags": [
+      {
+        "dimension": "mood",
+        "name": "豪放",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "theme",
+        "name": "饮酒",
+        "weight": 1.0,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "atmosphere",
+        "name": "奔放",
+        "weight": 0.95,
+        "evidenceLines": [],
+        "source": "manual",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "明月",
+        "weight": 0.85,
+        "evidenceLines": [
+          2
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "河流",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "水面",
+        "weight": 0.85,
+        "evidenceLines": [
+          0
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "雪",
+        "weight": 0.85,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "花",
+        "weight": 0.85,
+        "evidenceLines": [
+          11
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "天空",
+        "weight": 0.85,
+        "evidenceLines": [
+          0,
+          3
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "subject",
+        "name": "马",
+        "weight": 0.85,
+        "evidenceLines": [
+          11
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "黄昏",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "time",
+        "name": "清晨",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      },
+      {
+        "dimension": "weather",
+        "name": "雪",
+        "weight": 0.9,
+        "evidenceLines": [
+          1
+        ],
+        "source": "rule",
+        "reviewed": true
+      }
+    ],
+    "popularity": 0.72,
+    "verificationStatus": "verified",
+    "sourceName": "chinese-poetry/chinese-poetry",
+    "sourceUrl": "https://github.com/chinese-poetry/chinese-poetry/blob/b8594f81a89752241442f2ce267d6f66f96704ee/全唐诗/唐诗三百首.json",
+    "schemaVersion": 1
+  }
+]

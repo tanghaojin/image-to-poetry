@@ -1,0 +1,13 @@
+{
+  "sourceRepository": "https://github.com/chinese-poetry/chinese-poetry",
+  "sourceCommit": "b8594f81a89752241442f2ce267d6f66f96704ee",
+  "sourcePath": "全唐诗/唐诗三百首.json",
+  "sourceRecordCount": 366,
+  "importedRecordCount": 366,
+  "curatedRecordCount": 50,
+  "ruleTaggedRecordCount": 316,
+  "license": "MIT",
+  "textConversion": "OpenCC t2s",
+  "selectionPolicy": "全量导入366条；保留50首人工策展标签，其余316首使用待复核规则标签",
+  "canonicalTextPolicy": "数据库只保存一个标准展示版本，不保存异文和verificationNote"
+}
